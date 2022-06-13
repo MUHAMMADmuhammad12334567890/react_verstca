@@ -1,0 +1,31 @@
+.Main_bloc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   height: 500px;
+}
+
+.Main_bottom_bloc {
+    display: flex;
+    justify-content: space-evenly;
+
+    
+}
+
+.button_class {
+    width: 10%;
+    height: 40px;
+    background-color: blue;
+}
+.button_class1 {
+    width: 10%;
+    height: 40px;
+    background-color: orangered;
+    
+}
+.button_class2 {
+    width: 10%;
+    height: 40px;
+    background-color: aliceblue;
+    
+}

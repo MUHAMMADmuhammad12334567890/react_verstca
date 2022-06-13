@@ -1,0 +1,17 @@
+.Footer_bloc {
+    display: flex;
+    justify-content: space-evenly;
+margin-top: 10%;
+}
+
+.img_Footer {
+    margin-bottom: 5%;
+    margin-left: 10%;
+}
+.img_Footer1 {
+    margin-bottom: 5%;
+     margin-left: -7%;
+} 
+.Footer_data_intocode {
+    margin-top: -0.03%;
+}

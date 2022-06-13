@@ -1,0 +1,12 @@
+.header_bloc {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+}
+
+.link_headar_bloc {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    width: 13%;
+}
